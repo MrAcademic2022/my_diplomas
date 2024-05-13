@@ -9,6 +9,8 @@ Repository for my diplomas (russian and international)
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Golden%20medal%20first%20merged.jpg" height="400" width="400" /></a> 
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Golden%20medal%20second%20merged.jpg" height="200" width="400" /></a> 
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Pirogovka.jpg" height="500" width="300" /></a> 
+<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Volkov_IELTS.jpg" height="500" width="300" /></a> 
+
 
   
 </p>
