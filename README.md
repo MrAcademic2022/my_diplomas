@@ -4,7 +4,7 @@ Repository for my diplomas (russian and international)
 
 
 <p align="left">
-<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Diploma_2-1.jpg" alt="MrAcademic2022" height="600" width="800" /></a>
+<a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/Diploma_2-1.jpg" alt="MrAcademic2022" height="600" width="1000" /></a>
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/FCE-upper-intermediate.svg" alt="MrAcademic2022" height="400" width="400" /></a>
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/hackathon-on-bioinformatics-and-clinical-oncology.svg" height="400" width="400" /></a>
 <a target="blank"><img align="center" src="https://github.com/MrAcademic2022/my_diplomas/blob/main/images/YandexPracticum.png" height="400" width="400" /></a>
